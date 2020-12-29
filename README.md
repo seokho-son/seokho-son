@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho-son)](https://github.com/seokho-son/github-readme-stats)
+
 <!--
 **seokho-son/seokho-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
