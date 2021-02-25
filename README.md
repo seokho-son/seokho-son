@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho-son)](https://seokho-son.github.io/)
 
