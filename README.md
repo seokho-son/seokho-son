@@ -7,8 +7,8 @@
 ### Research
 - Senior Researcher / Special Fellow of [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/eng/main/main.etri)
 - PhD. in computer science (especially for cloud computing domain)
-- Publications: http://bit.ly/2YImtbv
-- Website: https://seokho-son.github.io
+  - Publications: http://bit.ly/2YImtbv
+  - Website: https://seokho-son.github.io
 
 ### Leadership
 - Kubernetes SIG-Docs Korean l10n team leader
