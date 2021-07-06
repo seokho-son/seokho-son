@@ -5,14 +5,15 @@
 </a>
 
 ### Research
-- Senior Researcher / Special Fellow of [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/eng/main/main.etri)
+- Senior Researcher / Special Fellow
+  - [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/eng/main/main.etri)
 - PhD. in computer science (especially for cloud computing domain)
   - Publications: http://bit.ly/2YImtbv
   - Website: https://seokho-son.github.io
 
 ### Leadership
-- Kubernetes SIG-Docs Korean l10n team leader
-- Cloud-Barista CB-Tumblebug framework leader
+- Kubernetes SIG-Docs Korean l10n team leader [slack](https://kubernetes.slack.com/archives/CA1MMR86S)
+- Cloud-Barista CB-Tumblebug framework leader [slack](https://cloud-barista.slack.com/archives/CJQ7575PU)
 
 ### Main contributions
 - Kubernetes organization [Member](https://github.com/orgs/kubernetes/people?query=seokho-son) 
