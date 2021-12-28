@@ -19,6 +19,7 @@
 - Kubernetes organization [Member](https://github.com/orgs/kubernetes/people?query=seokho-son) 
 - Kubernetes/website [Maintainer](https://github.com/orgs/kubernetes/teams/website-maintainers/members), [Milestone maintainer](https://github.com/orgs/kubernetes/teams/website-milestone-maintainers/members), [Korean approver](https://github.com/orgs/kubernetes/teams/sig-docs-ko-owners/members)
 - Kubernetes/dashboard [Korean approver](https://github.com/kubernetes/dashboard/blob/master/i18n/ko/OWNERS) 
+- CNCF/glossary [Maintainer](https://github.com/cncf/glossary)
 - Cloud-Barista organization [Owner](https://github.com/cloud-barista) 
 - Cloud-Barista/CB-Tumblebug [Maintainer](https://github.com/cloud-barista/cb-tumblebug) 
 
