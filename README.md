@@ -1,7 +1,7 @@
 
 ### GitHub Stats
 <a href="https://seokho-son.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seokho-son&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seokho-son&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26" />
 </a>
 
 ### Research
