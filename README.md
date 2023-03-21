@@ -23,9 +23,12 @@
 
 ### GitHub Stats
 
-<a href="https://seokho-son.github.io/">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seokho-son&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26" />
-</a>
+<div>
+  <a href="https://seokho-son.github.io/">
+    <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seokho-son&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=30" />
+  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=seokho-son&rank=-B&column=3&theme=monokai&no-frame=true" />
+</div>
 
 ### How to reach me:
 
