@@ -30,12 +30,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=seokho-son&rank=-B&column=3&theme=monokai&no-frame=true" />
 </div>
 
-### How to reach me:
-
-- LinkedIn: [seokho-son](https://www.linkedin.com/in/seokho-son/)
-- Slack: Seokho Son @ [slack.k8s.io](https://slack.k8s.io)
-- Twitter: [@seokho11](https://twitter.com/seokho11)
-
 
 <!--
 **seokho-son/seokho-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
