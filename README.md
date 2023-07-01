@@ -9,8 +9,9 @@
 
 ### Leadership
 
-- Kubernetes SIG-Docs Korean l10n team leader [slack](https://kubernetes.slack.com/archives/CA1MMR86S)
-- Cloud-Barista CB-Tumblebug framework leader [slack](https://cloud-barista.slack.com/archives/CJQ7575PU)
+- Kubernetes SIG-Docs Localization Subproject co-lead [slack]([https://kubernetes.slack.com/archives/CA1MMR86S](https://kubernetes.slack.com/archives/C0191RDKHU1))
+- Kubernetes SIG-Docs Korean l10n team lead [slack](https://kubernetes.slack.com/archives/CA1MMR86S)
+- Cloud-Barista CB-Tumblebug framework lead [slack](https://cloud-barista.slack.com/archives/CJQ7575PU)
 
 ### Main contributions
 
